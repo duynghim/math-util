@@ -35,6 +35,8 @@ public class MathUtil {
         //IllegalArgumentException, nếu tao cố tình, người xài hàm
         //này của tao đưa tham số âm, tham số > 20
         System.out.println("expected IllegalArgumentException: " + MathUtility.getFactorial(-5));
+        
+        System.out.println("Chúc cuối tuần thứ 9 vui vẻ");
     }
     
 }
