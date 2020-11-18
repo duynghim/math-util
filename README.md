@@ -8,8 +8,8 @@ This repository contains a Java Project to simulate some of math methods found i
 *...
 
 ### Connect me via:
-1[Facebook](https://www.facebook.com/profile.php?id=100009318392240)
-2.[Email](trnduynghim2909@gmail.com)
+1. [Facebook](https://www.facebook.com/profile.php?id=100009318392240)
+2. [Email](trnduynghim2909@gmail.com)
 
 
 ####  © 2020 by giao.lang | FPT University. HCM
