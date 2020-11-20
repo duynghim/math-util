@@ -36,7 +36,9 @@ public class MathUtilityTest {
     @Test
     public void getFactoria_RunsWell_IfValidArgument(){
         assertEquals(120, getFactorial(5));
-        assertEquals(720, getFactorial(5));
+        assertEquals(720, getFactorial(6));
+        assertEquals(24, getFactorial(4));
+        assertEquals(1, getFactorial(4));
     }
 
     @Test(expected = SQLException.class)
